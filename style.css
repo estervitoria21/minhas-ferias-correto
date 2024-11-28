@@ -8,7 +8,7 @@ body {
 
 header {
     text-align: center;
-    background-color: #ffdd59;
+    background-color: #315dbdb9;
     padding: 20px;
 }
 
@@ -30,7 +30,7 @@ section {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #ffdd59;
+    background-color: #2f8b9b;
     position: absolute;
     width: 100%;
     bottom: 0;
@@ -64,7 +64,7 @@ img {
     width: 150px;
 }
 body {
-    background-image: url('imagens/fundo-praia.jpg');
+    background-image: url "praia copacabana.jpeg";
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Faz com que o fundo fique fixo ao rolar a página */
