@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Bem-vindo às Praias do Brasil</h1>
+        <h1>Bem-vindo às Praias do Brasil-copacabana-rj</h1>
         <p id="saudacao"></p>
     </header>
 
