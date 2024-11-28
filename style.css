@@ -64,7 +64,7 @@ img {
     width: 150px;
 }
 body {
-    background-image: url "praia copacabana.jpeg";
+    background-image: url ("tarde de copa.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Faz com que o fundo fique fixo ao rolar a página */
